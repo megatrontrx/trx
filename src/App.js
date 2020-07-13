@@ -394,7 +394,7 @@ class App extends Component {
                     <div className="me-hwork-svg">
                     {this.state.aff1sum}                           
                     </div>
-                    <h4 className="ama">Direct(10%)</h4>
+                    <h4 className="ama">Direct(11%)</h4>
                 </div>
             </div>
             <div className="col-lg-4 col-md-6">
@@ -402,7 +402,7 @@ class App extends Component {
                     <div className="me-hwork-svg">
                     {this.state.aff2sum} 
                         </div>  
-                    <h4 lass="ama"> Tier 1 (3%)</h4>
+                    <h4 lass="ama"> Tier 1 (11%)</h4>
                 </div>
             </div>
             <div className="col-lg-4 col-md-6">
@@ -410,7 +410,7 @@ class App extends Component {
                     <div className="me-hwork-svg">
                     {this.state.aff3sum}                                                                        
                     </div>
-                    <h4 lass="ama">Tier 2 (1%)</h4>
+                    <h4 lass="ama">Tier 2 (11%)</h4>
                 </div>
               </div>
               
