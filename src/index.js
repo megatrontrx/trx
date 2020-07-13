@@ -12,9 +12,9 @@ var waitForGlobal = async () =>{
             }
             return connected;
         }).includes(false);
-  
+        ReactDOM.render(<App />, document.getElementById('root'));
         if (connected){
-            ReactDOM.render(<App />, document.getElementById('root'));
+           
         } else {
           //  console.error(`Error: TRON node is not connected`);
            // alert("Please install TronLink Wallet");
